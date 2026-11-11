@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Project-Research%20%26%20Development-blue" />
   <img src="https://img.shields.io/badge/Status-In%20Development-orange" />
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows" />
-  <img src="https://img.shields.io/badge/License-See%20LICENSE-green" />
+  <img src="[https://img.shields.io/badge/License-See%20LICENSE-green](https://github.com/RemGrowing/RG-SingingAI/blob/main/LICENSE)" />
 </p>
 
 <p align="center">
